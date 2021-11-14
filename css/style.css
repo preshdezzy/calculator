@@ -1,0 +1,282 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: skyblue;
+}
+.header{
+    background-color: rgb(44, 40, 68);
+    height: 50px;
+    width: 36.7%;
+    margin: auto;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    margin-top: 5em;
+}
+.menu{
+    display: flex;
+    justify-content: end;
+}
+.sign1{
+   color: #fff;
+   font-size: 2em;
+   background-color: rgb(58, 55, 55);
+   padding: 5px 10px;
+}
+.sign2{
+    color: #fff;
+    font-size: 2em;
+    background-color: rgb(58, 55, 55);
+    padding: 5px 10px;
+ }
+ .sign3{
+    color: #fff;
+    font-size: 2em;
+    background-color: rgb(58, 55, 55);
+    border-top-right-radius: 20px;
+    padding: 5px 10px;
+    padding-right: 30px;
+ }
+.header2{
+   text-align: center;
+}
+input[type=text]{
+    height: 150px;
+    width: 32.7%;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #343434;
+    color: white;
+    text-align: right;
+}
+::placeholder{
+color: white;
+font-size: 9  0px;
+}
+.writeup{
+    float: right;
+    color: white;
+    margin-left: 5em;
+}
+.writeup p{
+    font-size: 20px;
+    margin-left: 20em;
+    margin-right: 2em;
+}
+.writeup h1{
+    font-size: 50px;
+    margin-left: 10em;
+}
+.main{
+    margin: auto;
+    background-color: darkslategray;
+    height: 300px;
+    width: 36.7%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.cell1{
+    color: white;
+    background-color: rgb(44, 40, 68);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell2{
+    color: rgb(241, 10, 87);
+    background-color: rgb(44, 40, 68);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell3{
+    color: white;
+    background-color: rgb(44, 40, 68);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell4{
+    color: white;
+    background-color: rgb(44, 40, 68);
+    padding: 20px 50px;
+    width: 110px;
+}
+.cell5{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell6{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell7{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell8{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell9{
+    color: white;
+    background-color: rgb(198, 195, 218);;
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell10{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell11{
+    color: white;
+    background-color: rgb(44, 40, 68);
+    padding: 20px 50px;
+    width: 110px;
+}
+.cell12{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell13{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell14{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell15{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell16{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell17{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell18{
+    color: white;
+    background-color: rgb(44, 40, 68);
+    padding: 20px 50px;
+    width: 110px;
+}
+.cell19{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell20{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell21{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell22{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell23{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell24{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell25{
+    color: white;
+    background-color: rgb(44, 40, 68);
+    padding: 20px 50px;
+    width: 110px;
+}
+.cell26{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell27{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell28{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell29{
+    color: white;
+    background-color: rgb(44, 40, 68);
+    padding: 20px 40px;
+    width: 100px;
+    border-bottom-left-radius: 12px;
+}
+.cell30{
+    color: white;
+    background-color: rgb(198, 195, 218);
+    padding: 20px 40px;
+    width: 100px;
+}
+.cell31{
+    color: white;
+    background-color: rgb(226, 82, 130);
+    padding: 20px 101px;
+}
+.cell32{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell33{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+}
+.cell34{
+    color: white;
+    background-color: rgb(58, 55, 55);
+        padding: 20px 10px;
+        width: 50px;
+        border-bottom-right-radius: 12px;
+}
